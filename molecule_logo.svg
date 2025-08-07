@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <!-- Central large circle -->
+  <circle cx="200" cy="150" r="40" fill="none" stroke="white" stroke-width="8"/>
+  
+  <!-- Upper right circle -->
+  <circle cx="300" cy="80" r="25" fill="none" stroke="white" stroke-width="8"/>
+  
+  <!-- Upper left circle -->
+  <circle cx="100" cy="80" r="25" fill="none" stroke="white" stroke-width="8"/>
+  
+  <!-- Lower circle -->
+  <circle cx="150" cy="230" r="30" fill="none" stroke="white" stroke-width="8"/>
+  
+  <!-- Lower small circle -->
+  <circle cx="80" cy="280" r="15" fill="none" stroke="white" stroke-width="6"/>
+  
+  <!-- Bond lines -->
+  <!-- Central to upper right -->
+  <line x1="230" y1="125" x2="275" y2="95" stroke="white" stroke-width="6"/>
+  
+  <!-- Central to upper left -->
+  <line x1="170" y1="125" x2="125" y2="95" stroke="white" stroke-width="6"/>
+  
+  <!-- Central to lower -->
+  <line x1="180" y1="185" x2="165" y2="200" stroke="white" stroke-width="6"/>
+  
+  <!-- Lower to small circle -->
+  <line x1="125" y1="250" x2="95" y2="270" stroke="white" stroke-width="6"/>
+</svg>
